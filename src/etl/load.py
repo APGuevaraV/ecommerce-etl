@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 
 
 def load_to_sql(df: pd.DataFrame, table_name: str,
-                db_path: str = "data/warehouse.db"):
+                db_path: str = "data/processed/warehouse.db"):
     """
     Carga un DataFrame a una tabla SQLite.
     """

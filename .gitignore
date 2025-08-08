@@ -1,5 +1,5 @@
 __pycache__/
-data/warehouse.db
+data/processed/warehouse.db
 .env
 .ipynb_checkpoints/
 .vscode/
