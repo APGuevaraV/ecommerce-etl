@@ -1,0 +1,9 @@
+# Librerías base
+pandas
+numpy
+
+# Conexión a bases de datos
+sqlalchemy==2.0.31
+pymysql==1.1.1
+pyarrow>=17.0.0
+python-dotenv==1.0.1
